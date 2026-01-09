@@ -1,6 +1,5 @@
 # Ali Saleem
-
-**Technical Program Manager 
+Technical Program Manager 
 
 ## What I'm Building
 
