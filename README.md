@@ -28,8 +28,4 @@ Exploring how AI can transform developer workflows and infrastructure management
 
 Always interested in discussing technical program management, fintech infrastructure, or AI applications in software development.
 
-📫 Open to collaboration on projects that improve developer experience or financial system reliability.
-
 ---
-
-*"The best code is code that ships. The best programs are ones that create leverage."*
