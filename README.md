@@ -1,10 +1,6 @@
 # Ali Saleem
 Technical Program Manager 
 
-## What I'm Building
-
-Exploring how AI can transform developer workflows and infrastructure management. My repositories showcase practical applications of machine learning, automation, and system design in fintech environments.
-
 ### Current Focus
 - Infrastructure automation and disaster recovery systems
 - AI-powered developer tooling and productivity enhancements  
@@ -26,6 +22,6 @@ Exploring how AI can transform developer workflows and infrastructure management
 
 ## Let's Connect
 
-Always interested in discussing technical program management, fintech infrastructure, or AI applications in software development.
+Always interested in discussing technical program management.
 
 ---
